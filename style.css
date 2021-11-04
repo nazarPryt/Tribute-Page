@@ -1,0 +1,43 @@
+#main {
+    background: #EEEEEE no-repeat/cover;
+    text-align: center;
+}
+#title {
+    font-weight: bold;
+    font-size: 50px;
+}
+.sub-title {
+    font-weight: 100;
+    font-size: 18px;
+}
+#img-div {
+    background: #fff;
+    padding: 20px;
+}
+#image {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+#img-caption {
+    margin: 20px;
+}
+.info-list {
+    display: inline-block;
+    max-width: 600px;
+    text-align: left;
+    font-size: 20px;
+}
+.info-list__item {
+    margin: 10px 0;
+}
+blockquote {
+    max-width: 600px;
+    margin: 30px auto;
+    font-style: italic;
+    text-align: left;
+}
+
+
+
